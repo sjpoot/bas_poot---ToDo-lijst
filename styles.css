@@ -1,0 +1,28 @@
+.text-label {
+    display: inline-block;
+    width: 200px;
+}
+
+.delete-button {
+    width: 20px;
+    height: 20px;
+    border:none;
+    padding:0px;
+    margin: 0px;
+  }
+
+  .delete-button img {
+      width: 20px;
+      height: 20px;
+      align-content: center;
+  }
+
+  .taak-invoer {
+      font-family: 'Times New Roman', Times, serif;
+      font-size: larger;
+  }
+
+  .taak-lijst {
+      font-family:'Times New Roman', Times, serif;
+      font-size: large;
+  }
